@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-# title: shuangwang's blog
-# subtitle: '写下那些孤独的时光'
-# description: '写下那些孤独的时光'
+title: shuangwang's blog
+subtitle: '写下那些孤独的时光'
+description: '写下那些孤独的时光'
 keywords:
 author: shuangwang
 language: zh-CN
@@ -106,9 +106,3 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-# Navigation bar
-
-navbar:
-  blog_title: wangshuang's blog1
-  
-banner_img: /img/homePage.jpg
